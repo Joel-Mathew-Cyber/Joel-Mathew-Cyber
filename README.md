@@ -27,7 +27,7 @@ My goal is to begin my cybersecurity career as a **Tier 1 Security Operations Ce
 
 | Skill | Associated Project / Experience |
 |---|---|
-| Log Analysis & Threat Detection (In Progress) | Microsoft Sentinel SOC Home Lab |
+| Log Analysis & Threat Detection (In Progress) | [Microsoft Sentinel SOC Home Lab](https://github.com/Joel-Mathew-Cyber/Microsoft-Sentinel-SOC-Home-Lab) |
 | Windows 11 Administration & Security (In Progress) | Virtualized Windows Home Lab |
 | Active Directory Fundamentals (Learning) | Virtualized Windows Home Lab |
 | Network Traffic Analysis | Wireshark Labs & Packet Analysis |
